@@ -1,7 +1,7 @@
 import time
 import os
 from pynput import keyboard
-
+#ill use keyboard and pynput sometime, remember to add a stop function
 num = 0
 rate = float(input("interval between counting: "))
 clearpreviousnumber = input("clear previous number? (y/n): ")
